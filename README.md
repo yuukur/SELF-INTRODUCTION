@@ -1,3 +1,8 @@
+# 所持資格
+- 基本情報技術
+- CCNA
+- LPIC101
+
 # 作成したアプリ
 ## シフト通知bot (https://github.com/yuukur/schedule-notify)
 
