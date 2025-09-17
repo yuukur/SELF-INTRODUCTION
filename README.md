@@ -5,6 +5,9 @@
 
 # 作成したアプリ
 ## シフト通知bot (https://github.com/yuukur/schedule-notify)
+node.js
+## ぷよぷよ（制作中）
+javascript
 
 
 
