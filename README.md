@@ -5,13 +5,13 @@
 
 # 作成したアプリ
 ## シフト通知bot (https://github.com/yuukur/schedule-notify)
-- node.js
+### 使用技術 node.js
 ## ぷよぷよ（制作中）(https://github.com/yuukur/puyopuyo-js/tree/develop)
-- javascript
+### 使用技術 HTML/CSS/javascript
 
 
 
-# 読んできた本の記録
+# 読んだ書籍一覧
 ## コンピューターサイエンス
 ![Image](https://github.com/user-attachments/assets/ee65d20a-ab3b-435b-a0a1-d3397c8eff51)
 ![Image](https://github.com/user-attachments/assets/c0a0d7ad-889e-4fe2-9f69-1c4a52075ae6)
