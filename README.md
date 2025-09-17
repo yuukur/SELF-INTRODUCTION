@@ -40,5 +40,12 @@
 
 ## アルゴリズム
 ![Image](https://github.com/user-attachments/assets/6beeaa0b-e5cf-4474-92a1-92a581247dc0)
+
+### 学習時備忘録として残したメモ
+- Cakephpの参考書にはないカウントダウンタイマーを実装しようとした時
+ - https://www.notion.so/ce9bf5c828d54c8c8ee317502b543c01?source=copy_link
+- gitをアップデートしようとした時
+ - https://www.notion.so/Mac-PATH-7bfeb5b7f8b64c8db81bc55458157195?source=copy_link
+
  
 
