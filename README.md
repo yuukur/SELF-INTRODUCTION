@@ -7,6 +7,7 @@
 ## シフト通知bot (https://github.com/yuukur/schedule-notify)
 ### 使用技術 node.js
 ## ぷよぷよ（制作中）(https://github.com/yuukur/puyopuyo-js/tree/develop)
+### デプロイ先github pages (https://yuukur.github.io/puyopuyo-js/)
 ### 使用技術 HTML/CSS/javascript
 
 
